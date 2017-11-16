@@ -1,7 +1,12 @@
 # MSGEQ7
 Here is my code for a music reactive WS2812B MSGEQ7 project.
 
+
+
+
+
 Used materials:
+
 
 Arduino Uno
 
@@ -18,6 +23,9 @@ MSGEQ7 Controller with audio jack (here: https://goo.gl/cE6QGY)
 3.5mm audio jack to get an output
 
 some capacitors and resistors
+
+
+
 
 I followed these tutorials to make this: 
 www.whatimade.today/graphic-equalizer-using-esp8266-msgeq7-ws2812/
