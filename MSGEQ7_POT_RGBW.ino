@@ -1,4 +1,10 @@
-  #include "FastLED.h"
+-// This code is from Justin Kühner @ 16.11.2017
+-// I'm 16 years old. So don't be shy, if a 16 year old guy can do this, you can do this too. =)
+-// If u find your code here, it could even be your code. CTRL+C and CTRL+V was my friend.
+-// For any help, contact me at dergamer846@gmail.com
+
+
+#include "FastLED.h"
 
 int analogPin = 0,
     strobePin = 2,
