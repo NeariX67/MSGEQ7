@@ -1,32 +1,20 @@
-# MSGEQ7
-Here is my code for a music reactive WS2812B MSGEQ7 project.
+FEEL FREE TO ASK MY ANY QUESTIONS OR HELP ABOUT THIS!
 
+How this works:
+I am using a Raspberry Pi 3B (that one with WiFi) and that 7 inch Touchscreen from Raspberry.
+On that Pi i am running an JavaFX application (i only can programm java - i'm sorry) to send UDP Packets to the selected IP-address.
+This is how you install JavaFX for Raspbian: https://wimdeblauwe.wordpress.com/2017/08/26/using-javafx-on-raspberry-pi-3-with-gluon/
 
+In theory, you could control your lamp from everywhere in the world if you port forward the port from the sketch (4210) to your ESP and it should work.
+It controls Color (RGB, Rainbow, Fade and Sparkling), Brightness, Distance between the colors in that Rainbow mode and fading speed.
+In my JavaFX Controller are two time that controlling part, as you can controll two devices at the same time, as i do, because i have another LED Strip under my bed.
 
+Hardware: (DM ME FOR ANY LINKS TO THE PRODUCTS)
 
-
-Used materials:
-
-
-Arduino Uno
-
-5 meters of WS2812B LEDs (60 LEDs per meter; 300 in total)
-
-CSL Bluetooth receiver
-
-Acrylic milk glass cylinder 
-
-PCB
-
-MSGEQ7 Controller with audio jack (here: https://goo.gl/cE6QGY)
-
-3.5mm audio jack to get an output
-
-some capacitors and resistors
-
-
-
-
-I followed these tutorials to make this: 
-www.whatimade.today/graphic-equalizer-using-esp8266-msgeq7-ws2812/
-www.youtube.com/watch?v=5oRir4dck_w
+2x ESP8266-12E (NodeMCU V3)
+2x 3v3 to 5v logical converter
+1x MSGEQ7 presoldered PCB from the US (highly recommended!)
+1x 300 WS2812B LEDs (LÄMP)
+1x ~170 WS2812B LEDs (Bed)
+1x 5V 3A PSU
+Some wires
