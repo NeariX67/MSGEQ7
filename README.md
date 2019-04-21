@@ -14,7 +14,7 @@ Hardware: (DM ME FOR ANY LINKS TO THE PRODUCTS)
 2x ESP8266-12E (NodeMCU V3)   
 2x 3v3 to 5v logical converter    
 1x MSGEQ7 presoldered PCB from the US (highly recommended!)     
-1x 300 WS2812B LEDs (LÄMP)      
+1x 300 WS2812B LEDs (Lamp)  DON'T BUY CHEAP ONE! 
 1x ~170 WS2812B LEDs (Bed)      
 1x 5V 3A PSU      
 Some wires      
